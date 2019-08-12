@@ -1,0 +1,6 @@
+[submodule "lyonesse"]
+	path = lyonesse
+	url = https://github.com/jhidding/lyonesse/
+[submodule "pfds"]
+	path = pfds
+	url = https://github.com/jhidding/pfds/
